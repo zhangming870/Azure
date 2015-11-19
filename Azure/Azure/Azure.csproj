@@ -75,6 +75,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Azure\upload website via visualstudio.txt" />
     <Content Include="Azure\Website FTP.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

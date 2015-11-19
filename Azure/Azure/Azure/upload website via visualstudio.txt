@@ -1,0 +1,4 @@
+﻿下载download the publish profile
+按publish,import下载的profile
+发布中把本地的connection string替换成了云上的connection string.
+可以通过ftp登陆到云端察看web.config里面的connection string.
