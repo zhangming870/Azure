@@ -1,0 +1,3 @@
+﻿复制FTP HOST NAME的地址，在windows exploer里面打开
+下载download the publish profile, 找到ftp user name and pwd, 填入验证窗口
+找到wwwroot, site
