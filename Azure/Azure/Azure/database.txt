@@ -1,1 +1,4 @@
 ﻿定序 Collation https://www.dotblogs.com.tw/jimmyyu/archive/2009/08/30/10320.aspx
+
+建立database,可以放在已有的sql server instance上，也可以新建一个sql server,
+新建一个sql server后需要去设定防火墙，ip address
