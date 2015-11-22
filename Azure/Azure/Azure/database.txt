@@ -2,3 +2,5 @@
 
 建立database,可以放在已有的sql server instance上，也可以新建一个sql server,
 新建一个sql server后需要去设定防火墙，ip address
+
+management studio连接azure, 地址选择manage url 当中的一部分，不带http/https
